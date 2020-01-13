@@ -5,8 +5,8 @@ url: "https://dacon-official.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Dacon Official Blog                                    # site's title
 description: "Dacon Official Blog"      # used by search engines
-avatar: assets/img/Dacon_wide_logo.png                         # Empty for no avatar in navbar
-favicon: assets/Dacon_wide_logo.png                             # Icon displayed in the tab
+avatar: assets/img/DACON_logo_img_no_name.png                        # Empty for no avatar in navbar
+favicon: assets/img/DACON_logo_img_no_name.png                       # Icon displayed in the tab
 
 # Header and footer text
 header_text: "Dacon Official Blog"  # Change Blog header text
